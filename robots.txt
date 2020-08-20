@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://girl-crush.netlify.app/sitemap.xml
