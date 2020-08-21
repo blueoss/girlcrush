@@ -1,6 +1,6 @@
 body {
   font-family: 'Jua', sans-serif;
-  background-color: #ffffff;
+  background-color: #F2F5A9;
   box-sizing: border-box;
   color: #35465d;
 }
@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     border-radius: 10px;
     border: solid 1.5px #f6f7fa;
-    background-color: #f6f7fa;
+    background-color: #F2F5A9;
 }
 .file-upload-btn {
   width: 100%;
